@@ -3,7 +3,7 @@ I was recently introduced to the [nohello](https://aka.ms/nohello) concept and I
 
 If you haven't seen what I'm talking about, take a moment to go check out Sebastien's page or [nohello.com](http://www.nohello.com/). I'll wait.
 
-So what's different for nosocial? Not much really. This page is to let colleagues know that when they reach out on chat that it's perfectly acceptable to **bypass social formalties** and just get to the point ask the question! No need to worry about saying any of the following:
+So what's different for nosocial? Not much really. This page is to let colleagues know that when they reach out on chat that it's perfectly acceptable to **bypass social formalties** and just get to the point and ask the question! No need to worry about saying any of the following:
 <pre>
 Hi..
 How is everything going?
